@@ -1,1 +1,1 @@
-test2 - edycja dla przykładu
+test2 - edycja dla przykładu 2
