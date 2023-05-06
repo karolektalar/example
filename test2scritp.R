@@ -1,1 +1,1 @@
-test2 - dodam tu coś
+test2 - edycja dla przykładu
